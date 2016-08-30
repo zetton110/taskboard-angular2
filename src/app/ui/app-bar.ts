@@ -8,7 +8,7 @@ import { AuthService } from '../services';
     template: `
     <header class="app-bar row middle-xs">
       <span [routerLink]="['']" class="logo col-xs-10">
-        Retain
+        BOARD
       </span>
       <nav class="col-xs-2">
         <div class="row middle-xs between-xs">
